@@ -1,10 +1,12 @@
-# Crimson
+# Crimson 
 
 
 ![Crimson](https://github.com/user-attachments/assets/fae28d60-1330-4bae-acab-57e12994e7f2)
 
 
-# Crimson Engine
+# Crimson Engine 
+
+- **README**: I decided to work in a development repository apart from this. There is going to be doing a big release of Crimson in the upcomming weeks! It will be including a full 3D renderer, 3D renderer will likely come first and then the 2D renderer, libraries like Box2D, Physx, yaml-cpp, assimp, and some networking multiplayer stuff soon after! If you are seeing this watch my repository! I am very excited for this upcomming release!
 
 Crimson is an open-source game engine currently under development including 2D and 3D environments
 imported tools used are found in the Crimson/vendor directory
