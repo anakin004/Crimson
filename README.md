@@ -26,8 +26,10 @@ imported tools used are found in the Crimson/vendor directory
   - GCC, Cmake, MSVC support SIMD operations
   - working on including more
 
-## Demo ( as of December 31st, 2024 )
-https://github.com/user-attachments/assets/41f91bd7-e28c-45d6-8c33-96af8cacb038
+## Sneak Peak of Crimson(Not Released Yet) ( Demo as of January 12th 2025 )
+https://github.com/user-attachments/assets/99ad7c79-45fb-4436-8ec6-fab906d483d9
+
+
 
 
 
